@@ -1,0 +1,2 @@
+body{margin:0}.scrollWrap{display:-webkit-box;display:-ms-flexbox;display:flex;overflow-x:auto}#first{display:-webkit-box;display:-ms-flexbox;display:flex;height:100vh}#first .menu{width:200px;background-color:black;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:end;-ms-flex-align:end;align-items:end}#first .menu ul{text-align:center;width:100%}#first .menu ul li{padding:2rem 0}#first .menu ul li a p{color:white}#first img{height:100%}
+/*# sourceMappingURL=scroll.min.css.map */
